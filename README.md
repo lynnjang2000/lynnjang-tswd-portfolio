@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+These portfolio templates are for setting up your Telling Stories with Data site.  
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
@@ -12,10 +12,10 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi! My name is Lynn and I am in the MEIM program. 
+Hi! My name is Lynn and I am in the MEIM program. I love music, baking, knitting, and spending time with my dog **Bailey**.
 
 # What I hope to learn
-My career goal is focused on strategic marketing and sync licensing in music industry.
+My career goal is focused on strategic marketing and sync licensing in music label company.
 From this course, I would like to learn how to present data in more efficient and visually appealing way, which is essential for marketing.
 
 # Portfolio
@@ -39,7 +39,6 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
 
