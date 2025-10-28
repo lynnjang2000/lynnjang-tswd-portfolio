@@ -19,9 +19,9 @@ My career goal is focused on strategic marketing and sync licensing in music lab
 From this course, I would like to learn how to present data in more efficient and visually appealing way, which is essential for marketing.
 
 # Portfolio
-- Research Summary
-- Data Visualization
-- Final Project
+- Design Critique
+- Workshop
+- Final Project (TBD)
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
