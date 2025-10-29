@@ -19,8 +19,8 @@ My career goal is focused on strategic marketing and sync licensing in music lab
 From this course, I would like to learn how to present data in more efficient and visually appealing way, which is essential for marketing.
 
 # Portfolio
-- Design Critique
-- Workshop
+- Data visualization critique #1 (D2, B2)
+- Working with Tableau: Visualizing Government Debt
 - Final Project (TBD)
 
 # Examples
