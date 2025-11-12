@@ -26,8 +26,12 @@ From this course, I would like to learn how to present data in more efficient an
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: 
+## Assignment: OECD General Government Debt
 <a href="oecd-general-government-debt.html">OECD General Government Debt →</a>
+
+## Assignment: Makeover Monday
+<a href="critique-redesign-makeovermonday.html">Critique and redesign (MakeoverMonday) →</a>
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
