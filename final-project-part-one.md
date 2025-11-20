@@ -64,7 +64,7 @@ within the music industry.
 - Suggest opportunities for future research or actions the industry could take to address remaining disparities.
 
 ## Initial sketches
-<img src="example.jpeg">
+<img src="1.jpeg">
 
 
 
