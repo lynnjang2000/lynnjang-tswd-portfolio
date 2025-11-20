@@ -4,67 +4,64 @@
 # Outline
 <p>
   One-sentence Project Summary:
-  This project visualizes and analyzes the BPM, energy, and valence of songs used in Apple iPhone commercials (2017–2025) to reveal how Apple constructs a consistent and evolving sonic identity across its advertising.
+  [Gender Representation in Pop Music Industry] I plan to study how the presence of female artists in popular music has changed from 2012 to 2024.
 </p>
 
 <p>
-  This project explores how Apple uses music in its iPhone commercials from 2017 to 2025 and what those choices reveal about the brand’s overall mood and identity. I collected the songs used in each advertisement and analyzed them using Spotify’s audio features, focusing on tempo (BPM), energy, genre, and valence. By visualizing these characteristics over time, I want to understand whether Apple follows a consistent musical style and how that style shifts as new iPhone generations are introduced.
-</p>
-
+ This project examines how the presence of female artists in popular music has changed from 2012 to 2024 and what these trends reveal about gender representation across the broader music ecosystem. Using publicly available datasets, I analyze three core dimensions of the industry: the gender distribution of popular songs by genre, the year-to-year share of female artists in pop music, and the gender breakdown of Grammy nominations. Together, these datasets allow me to explore not only how visible women have been in popular music, but also how different layers of the industry (commercial charts, genre structures, and institutional recognition) might reinforce or limit that visibility.
 <p>
-  Through this work, my goal is to show how Apple’s sound choices support the emotional tone of its advertising. I am interested in whether the music has become faster, brighter, or more energetic in recent years and how those changes might align with Apple’s broader storytelling and product positioning. In the end, this project aims to highlight music as an intentional part of Apple’s branding rather than just a background element.
+The goal of this project is to visualize how female artist participation has evolved over time and to identify what may have driven those changes. By comparing overall gender trends with genre-specific patterns and award recognition, I hope to uncover whether the rise in female visibility reflects broader cultural shifts, changes within specific genres, or persistent gaps between commercial success and institutional acknowledgment. Ultimately, this project aims to present a clear, data-driven narrative about how women’s roles in popular music have progressed over the past decade and where disparities still remain.
+<p>
 </p>
-<h2>Project structure</h2>
 
-<ol>
-  <li>
-    <strong>Beginning = setting the context</strong><br>
-    What does Apple’s iPhone commercials “sound” like, and how has that sound evolved/changed across iPhone generations?
-    <ul>
-      <li>Apple is widely recognized for clean, minimal, and trendy advertising.</li>
-      <li>While visuals are heavily analyzed, the music in commercials is equally central to its brand identity.</li>
-      <li>Brief description of dataset (2017–2025 Apple iPhone commercials, BPM, energy, genre, and valence of the music).</li>
-    </ul>
-  </li>
+# Project Structure
 
-  <li>
-    <strong>Middle = Data exploration</strong>
-    <ul>
-      <li>Overview of the dataset (BPM / energy / valence ranges).</li>
-      <li>Tempo (BPM) trends: line chart of BPM across iPhone generations.</li>
-      <li>Energy patterns: heatmap of energy across iPhone generations / year.</li>
-      <li>Valence shifts: bubble chart showing how mood of the music (brightness) changes over time.</li>
-      <li>Genre trends: treemap showing the proportion of each genre.</li>
-      <li>Combined audio profile: quadrant chart showing Apple’s overall sound identity in the commercials.</li>
-    </ul>
-  </li>
+## 1. Beginning — Setting the Stage / Problem Statement
 
-  <li>
-    <strong>Climax = Insight</strong>
-    <ul>
-      <li>Identification of Apple’s sonic identity: typically high BPM, mid-to-high energy, clean, modern, electronic-leaning sound.</li>
-      <li>Does Apple lean toward a specific tone / genre?</li>
-    </ul>
-  </li>
+### Central Question
+**How has the presence of female artists in popular music changed from 2012 to 2024?**
 
-  <li>
-    <strong>Implications + Interpretation</strong>
-    <ul>
-      <li>Apple uses music strategically to shape emotional response.</li>
-      <li>Shift toward more groovy and lower-valence music mirrors Apple’s focus on a charismatic, trendy brand identity.</li>
-    </ul>
-  </li>
+### Context & Importance
+Explain why gender representation in music matters culturally, socially, and economically, and why shifts in visibility offer insight into the broader music ecosystem.
 
-  <li>
-    <strong>Closing = resolution and sync licensing relevance</strong>
-    <ul>
-      <li>Understanding Apple’s preferred audio profile helps explain why certain artists / genres are repeatedly chosen for their commercials.</li>
-      <li>Sync teams pitching to Apple could strategically match music to the brand’s preferred BPM, energy, and valence characteristics.</li>
-      <li>Analysis shows how data-driven insights reveal brand identity through sound.</li>
-    </ul>
-  </li>
-</ol>
+## 2. Middle — Rising Action / Data Exploration and Analysis
 
+### A. Overall Trend: Female Representation Over Time
+- Line chart showing the annual share of female artists (2012–2024).
+- Identify years of growth, stagnation, or decline.
+
+### B. Genre Layer: How Genre Shapes Gender Representation
+- Compare which genres historically include more vs. fewer women.
+- Analyze whether shifts in genre popularity help explain changes in overall female representation.
+
+### C. Industry Recognition: Grammy Nominations by Gender
+- Compare Billboard visibility with Grammy nomination data.
+- Identify alignment or gaps between commercial popularity and institutional recognition.
+- Assess whether increased chart presence is reflected in awards.
+
+### D. Synthesizing the Layers
+- Connect insights across the three perspectives:
+  - Do increases in female visibility correlate with changes at the genre level?
+  - Is institutional recognition keeping pace with chart trends?
+  - Are any disparities persistent over time?
+
+
+## 3. Climax — Key Insight
+Present the **single most important conclusion** revealed by the combined datasets.
+
+
+## 4. Falling Action — Interpretation and Implications
+Discuss what the findings suggest about:
+- Representation  
+- Opportunity  
+- Structural power dynamics  
+within the music industry.
+
+
+## 5. Closing — Bringing It All Together
+- Summarize the overall story emerging from the visualizations.
+- Reflect on what these trends imply for gender representation in music today.
+- Suggest opportunities for future research or actions the industry could take to address remaining disparities.
 
 ## Initial sketches
 <img src="example.jpeg">
@@ -73,17 +70,20 @@
 
 # The data
 <p>
-  To collect the dataset for this project, I first identified all iPhone models released between 2017 and 2025 and searched for their official advertisements on YouTube. For each commercial, I documented the song used in the campaign and gathered its basic musical attributes, including tempo (BPM) and genre. These values were obtained through BPM analysis tools and publicly available information on Apple Music.
+## Data Source
+
+The dataset used in this project was originally created by the **MDSC Initiative** and sourced from **Statista**.  
+This data provides annual breakdowns that allow for examining trends in the visibility and representation of female artists over time.
+
 </p>
 
-<p>
-  Because Apple Music does not provide audio features for all songs used in Apple’s commercials, I manually analyzed each track to categorize its energy and valence levels. This involved listening to the songs and grouping them into low, medium, or high categories based on consistent criteria. The result is a dataset that combines publicly sourced musical metadata with qualitative assessments of emotional tone, allowing for a more complete analysis of Apple’s advertising sound over time.
-</p>
+| Dataset Description                                                                            | Link |
+|------------------------------------------------------------------------------------------------|------|
+| Share of Grammy nominations in the United States from 2013 to 2024, by gender                 | [link](https://www-statista-com.cmu.idm.oclc.org/statistics/801372/gender-grammy-nominees/) |
+| Share of female artists in popular music in the United States from 2012 to 2024               | [link](https://www-statista-com.cmu.idm.oclc.org/statistics/801059/share-of-females-popular-music/) |
+| Solo artists with the most songs in the Billboard Top 100 in the United States from 2012–2024 | [link](https://www-statista-com.cmu.idm.oclc.org/statistics/801333/artists-most-songs-billboard-top-100/) |
+| Gender distribution of popular songs in the United States from 2012 to 2023, by genre         | [link](https://www-statista-com.cmu.idm.oclc.org/statistics/801266/gender-distribution-popular-songs-genre/) |
 
-
-| Name    | URL                                                   | Description                        |
-|---------|-------------------------------------------------------|------------------------------------|
-| SongBPM | [https://songbpm.com/](https://songbpm.com/)         | Site used to categorize BPM of songs |
 
 
 # Method and medium
