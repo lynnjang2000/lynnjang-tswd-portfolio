@@ -83,7 +83,6 @@ and why shifts in visibility offer insight into the broader music ecosystem.
 
 <h2>The Data</h2>
 
-<p>
   The dataset used in this project was originally created by the 
   <strong>MDSC Initiative</strong> and sourced from <strong>Statista</strong>. 
   This data provides annual breakdowns that allow for examining trends in the 
