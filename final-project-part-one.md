@@ -70,7 +70,7 @@ within the music industry.
 
 # The data
 <p>
-## Data Source
+Data Source
 
 The dataset used in this project was originally created by the **MDSC Initiative** and sourced from **Statista**.  
 This data provides annual breakdowns that allow for examining trends in the visibility and representation of female artists over time.
@@ -88,10 +88,4 @@ This data provides annual breakdowns that allow for examining trends in the visi
 
 # Method and medium
 I plan to use Shorthand and Tableau.
-
-
-## References
-
-
-## AI acknowledgements
 
