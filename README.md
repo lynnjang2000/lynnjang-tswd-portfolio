@@ -1,5 +1,4 @@
-<a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio">home page</a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-one">
-  final project part I </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-two">final project part I </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-three"> final project part I </a>
+<a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio">home page</a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-one">final project part I </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-two">final project part I </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-three"> final project part I </a>
 
 
 
