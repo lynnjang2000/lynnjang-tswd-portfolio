@@ -1,4 +1,4 @@
-<a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/">home page</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #1</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #2</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #3</a>
+<a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio">home page</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #1</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #2</a> | <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio.html">Final Project #3</a>
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
