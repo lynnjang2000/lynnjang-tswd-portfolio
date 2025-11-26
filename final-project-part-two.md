@@ -1,4 +1,4 @@
-| [home page](https://github.com/lynnjang2000/lynnjang-tswd-portfolio) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [final project 1](final-project-part-one) | [final project 2](final-project-part-two) | [final project 3](final-project-part-three) |
 
 # Wireframes / storyboards
 Link to shorthand: (https://preview.shorthand.com/hBp87WaT2rjWtMfg)
