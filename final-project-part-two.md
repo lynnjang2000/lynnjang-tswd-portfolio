@@ -1,68 +1,42 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://github.com/lynnjang2000/lynnjang-tswd-portfolio) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+Link to shorthand: 
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience would be artist management companies (talent agencies). 
+As a market researcher, I aim to provide artist management teams with the data-driven insights that highlight the rising potential of female artists and identify actionable opportunities for scouting and development. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+| Goal                        | Purpose                                                                                            |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
+| Visualization Critique      | Are the graphs effective and easy to understand?                                                   |
+| Data Relevancy              | Do the data correlate with each other or relate clearly to the topic?                              |
+| Targeted Audience           | Is the structure of the presentation appropriate for the intended audience?                        |
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+| Questions                                                   | Interview 1 (Student A)                                                                 | Interview 2 (Student B)                                             | Interview 3 (Student C)                                                                                         |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Are the graphs effective and easy to understand?            | Rename the y-axis for the Billboard top solo artists graph                                 | Maybe add a graph showing the share of male artists by genre        | Changing the genre graph to a pie chart might be a good idea |
+| Do the data correlate with each other or relate to the topic? | Data about solo artists in Billboard Top 100 may not directly relate, but you can blend it with other data | Rearrange the data for more effective storytelling                   | Interpretation will be crucial, especially if you're trying to highlight the positive side of female artist representation |
+| Is the structure appropriate for the intended audience?      | This is very interesting data and analysis                                                | Yes, but rearranging the data could make the presentation more concise | Tightening the flow and grouping similar insights together could help the audience follow the narrative more smoothly. |
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+| Research synthesis                                   | Anticipated changes for Part III                                                                                                         |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Edit visualization and structure of the presentation | I will try out different versions of data visualization and refine them. I will also rearrange the data and analysis based on the structure of the presentation. |
+| Convey clearer interpretation and analysis           | I will try to communicate my main point more concisely and focus on analyzing data that supports the overall topic of the presentation.   |
+| Strengthen presentation flow and coherence              | I will refine the storyline of my presentation by connecting sections more logically and ensuring each visualization contributes clearly to the central narrative. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to generate markdown for interview questions and findings (the content is not generated by AI)
 
