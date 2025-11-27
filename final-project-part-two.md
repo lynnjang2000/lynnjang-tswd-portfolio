@@ -1,7 +1,7 @@
 | [final project 1](final-project-part-one) | [final project 2](final-project-part-two) | [final project 3](final-project-part-three) |
 
 # Wireframes / storyboards
-Link to shorthand: (https://preview.shorthand.com/hBp87WaT2rjWtMfg)
+Link to shorthand: [(https://preview.shorthand.com/hBp87WaT2rjWtMfg)](https://preview.shorthand.com/zj2kOyzsvvlOq6Wx)
 
 # User research 
 
