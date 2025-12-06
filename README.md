@@ -28,10 +28,3 @@ From this course, I would like to learn how to present data in more efficient an
 <a href="critique-redesign-makeovermonday.html">Critique and redesign (MakeoverMonday) →</a>
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-
-
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
