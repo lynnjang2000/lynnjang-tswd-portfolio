@@ -1,8 +1,7 @@
-<a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio">Home page</a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-one">Final project part 1 </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-two">Final project part 2 </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-three"> Final project part 3 </a>
+<a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/">Home page</a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-one">Final project part 1 </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-two">Final project part 2 </a> | <a href="https://lynnjang2000.github.io/lynnjang-tswd-portfolio/final-project-part-three"> Final project part 3 </a>
 
 
--  <a href="https://cmustudent.github.io/tswd-portfolio-templates/"> Web page URL</a>
--  <a href="https://github.com/cmustudent/tswd-portfolio-templates/"> This Repository</a>
+
 -  <a href="https://github.com/lynnjang2000/lynnjang-tswd-portfolio/"> My Repository</a>
 
 # About me
