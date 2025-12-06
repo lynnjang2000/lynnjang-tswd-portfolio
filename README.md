@@ -13,7 +13,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hi! My name is Lynn and I am in the MEIM program. I love music, baking, knitting, and spending time with my dog **Bailey**.
 
 # What I hope to learn
-My career goal is focused on strategic marketing and sync licensing in music label company.
+My career goal is focused on strategic marketing and sync licensing in record label.
 From this course, I would like to learn how to present data in more efficient and visually appealing way, which is essential for marketing.
 
 # Portfolio
@@ -29,7 +29,7 @@ From this course, I would like to learn how to present data in more efficient an
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
-## References
+
 _List any references you used here._
 
 ## AI acknowledgements
