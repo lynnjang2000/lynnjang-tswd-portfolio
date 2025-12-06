@@ -1,4 +1,4 @@
-| [home page](https://lynnjang2000.github.io/lynnjang-tswd-portfolio/) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 <h1>Outline</h1>
